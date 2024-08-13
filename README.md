@@ -7,7 +7,7 @@ This repository contains my solutions to various SQL and data analysis challenge
 **Repository Structure:**
 
 * **[SQL]:**
-  * Salaries differences -  [Problem1].sql
+  * [Salaries differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=5) -  [Problem1].sql
 
 **Contributing:**
 
